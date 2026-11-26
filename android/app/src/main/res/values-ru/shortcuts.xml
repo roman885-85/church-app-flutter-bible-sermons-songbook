@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Русский: подписи ярлыков (долгое нажатие на значок) и название под значком. -->
+    <string name="app_name">Возрождение</string>
+    <string name="shortcut_songbook">Песенник</string>
+    <string name="shortcut_bible">Библия</string>
+    <string name="shortcut_live">Эфир</string>
+    <string name="shortcut_live_long">Прямой эфир</string>
+    <string name="shortcut_search">Поиск</string>
+    <string name="shortcut_search_long">Поиск в приложении</string>
+</resources>

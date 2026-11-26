@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- English: shortcut labels (long-press on the icon) and the name under the icon. -->
+    <string name="app_name">Revival</string>
+    <string name="shortcut_songbook">Songbook</string>
+    <string name="shortcut_bible">Bible</string>
+    <string name="shortcut_live">Live</string>
+    <string name="shortcut_live_long">Live broadcast</string>
+    <string name="shortcut_search">Search</string>
+    <string name="shortcut_search_long">Search the app</string>
+</resources>

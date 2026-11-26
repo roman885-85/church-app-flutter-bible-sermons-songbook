@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Звичайний HTTP (без шифрування) заборонено всюди, крім самого телефона:
+  мінус пісні, який синтезатор ще дописує, програвач читає через місцевий
+  проксі just_audio на 127.0.0.1 (lib/midi/midi_audio_source.dart).
+-->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">127.0.0.1</domain>
+        <domain includeSubdomains="false">localhost</domain>
+    </domain-config>
+</network-security-config>

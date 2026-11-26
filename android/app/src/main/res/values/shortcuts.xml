@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Підписи ярликів, що з'являються при довгому натиску на значок застосунку (xml/shortcuts.xml). -->
+<resources>
+    <string name="app_name">Відродження</string>
+    <string name="shortcut_songbook">Пісенник</string>
+    <string name="shortcut_bible">Біблія</string>
+    <string name="shortcut_live">Ефір</string>
+    <string name="shortcut_live_long">Прямий ефір</string>
+    <string name="shortcut_search">Пошук</string>
+    <string name="shortcut_search_long">Пошук у застосунку</string>
+</resources>
